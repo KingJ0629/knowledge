@@ -5,3 +5,5 @@
 [如何线程安全地遍历List：Vector、CopyOnWriteArrayList](https://blog.csdn.net/xiao__gui/article/details/51050793)
 
 [OKHttp之缓存配置详解](https://blog.csdn.net/briblue/article/details/52920531)
+
+[Android中的广播使用小结](https://www.jianshu.com/p/92ccb8ca2ea5)
