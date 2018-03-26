@@ -3,3 +3,5 @@
 [LinkedHashMap 的实现原理](http://wiki.jikexueyuan.com/project/java-collection/linkedhashmap.html)
 
 [如何线程安全地遍历List：Vector、CopyOnWriteArrayList](https://blog.csdn.net/xiao__gui/article/details/51050793)
+
+[OKHttp之缓存配置详解](https://blog.csdn.net/briblue/article/details/52920531)
