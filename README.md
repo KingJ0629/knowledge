@@ -7,3 +7,5 @@
 [OKHttp之缓存配置详解](https://blog.csdn.net/briblue/article/details/52920531)
 
 [Android中的广播使用小结](https://www.jianshu.com/p/92ccb8ca2ea5)
+
+[Retrofit分析-经典设计模式案例](https://www.jianshu.com/p/fb8d21978e38)
